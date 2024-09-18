@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 <div style="text-align: center;">
-  <img src="/src/ethan_pic.png" alt="Ethan Plaue picture" style="width: 250px; margin-bottom: 20px;" />
+  <img src="/assets/images/ethan_pic.png" alt="Ethan Plaue picture" style="width: 250px; margin-bottom: 20px;" />
   
   <p>
     Drue Heinz Postdoctoral Fellow in American Literature<br>
