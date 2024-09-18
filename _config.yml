@@ -22,13 +22,13 @@ title: Ethan A. Plaue
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Ethan A. Plaue's personal website
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "ethanp_website" # the subpath of your site, e.g. /blog
+url: "https://samiam2000.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-theme: jekyll-theme-minimal
+theme: minima
 plugins:
   - jekyll-feed
 
