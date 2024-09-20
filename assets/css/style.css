@@ -1,0 +1,13 @@
+body, h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .site-title, .site-nav {
+    font-family: Garamond, "EB Garamond", "Garamond Classic", serif !important;
+  }
+
+  .wrapper {
+    max-width: 850px !important; /* Adjust this value as needed */
+  }
+  
+  @media screen and (min-width: 800px) {
+    .post-content {
+      max-width: 1000px !important; /* Adjust this value as needed */
+    }
+  }
