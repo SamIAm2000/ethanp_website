@@ -5,7 +5,7 @@ title: Research
 permalink: /research/
 ---
 ### Book Project
-- His current book project is an intellectual history of mediation told through the literature and archives of transnational American Romanticism. Crafted out of Enlightenment science and philosophy, the etymologically linked concepts of “mediation,” “medium,” and “means” became seminal metaphors for nineteenth-century political economists, liberal philosophers, and Romantic writers to describe human existence as produced and perpetuated by means of another—whether another person, object, or even idea. Assembling a diverse array of sources—from American Transcendentalism to Black technical writing, from the Patent Act of 1790 to early photography manuals—the book tracks the emergence of mediated life as it shaped not only nineteenth-century ways of knowing but also the way we experience our mediated age today.
+  His current book project is an intellectual history of mediation told through the literature and archives of transnational American Romanticism. Crafted out of Enlightenment science and philosophy, the etymologically linked concepts of “mediation,” “medium,” and “means” became seminal metaphors for nineteenth-century political economists, liberal philosophers, and Romantic writers to describe human existence as produced and perpetuated by means of another—whether another person, object, or even idea. Assembling a diverse array of sources—from American Transcendentalism to Black technical writing, from the Patent Act of 1790 to early photography manuals—the book tracks the emergence of mediated life as it shaped not only nineteenth-century ways of knowing but also the way we experience our mediated age today.
   
 ### Peer-Reviewed Journal Articles
 
