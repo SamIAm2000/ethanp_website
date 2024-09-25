@@ -6,7 +6,7 @@ css: /assets/css/style.css
 ---
 <div style="display: flex; align-items: left;">
   <div style="flex-shrink: 0;">
-    <img src="assets/images/ethan_pic.png" alt="Ethan Plaue picture" style="width: 250px; margin-right: 40px;" />
+    <img src="{{ site.baseurl }}/assets/images/ethan_pic.png" alt="Ethan Plaue picture" style="width: 250px; margin-right: 40px;" />
   </div>
   
   <div>

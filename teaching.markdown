@@ -6,7 +6,7 @@ permalink: /teaching/
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex-shrink: 0;">
-    <img src="/ethanp_website/assets/images/data_governance.jpg" alt="Data Governance course image" style="width: 250px; margin-right: 40px; margin-top:10px" />
+    <img src="{{ site.baseurl }}/assets/images/data_governance.jpg" alt="Data Governance course image" style="width: 250px; margin-right: 40px; margin-top:10px" />
   </div>
   <div>
     <h3>Democratizing Data? Critical Data Studies in Algorithmic Governance</h3>
@@ -17,7 +17,7 @@ permalink: /teaching/
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex-shrink: 0;">
-    <img src="/ethanp_website/assets/images/gothic_lit.jpg" alt="American Gothic Literature course image" style="width: 250px; margin-right: 40px; margin-top:10px;" />
+    <img src="{{ site.baseurl }}/assets/images/gothic_lit.jpg" alt="American Gothic Literature course image" style="width: 250px; margin-right: 40px; margin-top:10px;" />
   </div>
   <div>
     <h3>American Gothic Literature</h3>
@@ -28,7 +28,7 @@ permalink: /teaching/
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex-shrink: 0;">
-    <img src="/ethanp_website/assets/images/apoc_lit.jpg" alt="Literature of the Apocalypse course image" style="width: 250px; margin-right: 40px; margin-top:10px;" />
+    <img src="{{ site.baseurl }}/assets/images/apoc_lit.jpg" alt="Literature of the Apocalypse course image" style="width: 250px; margin-right: 40px; margin-top:10px;" />
   </div>
   <div>
     <h3>Literature of the Apocalypse</h3>
@@ -39,7 +39,7 @@ permalink: /teaching/
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 40px;">
   <div style="flex-shrink: 0;">
-    <img src="/ethanp_website/assets/images/creative_writing.jpg" alt="Creative Writing Studio Workshop course image" style="width: 250px; margin-right: 40px; margin-top:10px;" />
+    <img src="{{ site.baseurl }}/assets/images/creative_writing.jpg" alt="Creative Writing Studio Workshop course image" style="width: 250px; margin-right: 40px; margin-top:10px;" />
   </div>
   <div>
     <h3>Creative Writing Studio Workshop</h3>
