@@ -7,7 +7,7 @@ permalink: /research/
   
 ### Peer-Reviewed Journal Articles
 
-- “‘To modell out a land of so much worth’: Model Thinking in Colonial New England” (in preparation)
+- “‘To modell out a land of so much worth’: Model Thinking in Colonial New England,” *American Literary History*.Accepted and forthcoming.  
 
 - “The Patent Form: Norbert Rillieux, Solomon Northup, and the Production of Means in the Atlantic World,” *PMLA*. Accepted and forthcoming. 
 
